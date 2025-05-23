@@ -17,6 +17,15 @@ Credit card fraud detection is a critical challenge faced by financial instituti
 - Implement **data balancing** using SMOTE to handle extreme class imbalance.
 - Compare and evaluate **multiple ML classifiers** using precision, recall, AUC-ROC, and F1-score.
 
+- pandas==1.5.3
+numpy==1.21.6
+matplotlib==3.5.3
+seaborn==0.11.2
+scikit-learn==1.0.2
+imblearn==0.0
+mlxtend==0.21.0
+
+
 ---
 
 ## 📂 Dataset
